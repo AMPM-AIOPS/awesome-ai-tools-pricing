@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T04:00:01+08:00",
+ "generated_at": "2026-08-27T04:00:01+08:00",
  "source": "https://ampm-aiops.com",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS (ampm-aiops.com)",
  "disclaimer": "Prices and free-tier limits change without notice. Always confirm against the vendor's official page before relying on a figure.",
@@ -16,7 +16,7 @@
    "free_tier_summary": "免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數",
    "cheapest_paid_usd_per_month": 9.99,
    "commercial_use": null,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/adobe-firefly/"
   },
   {
@@ -30,7 +30,7 @@
    "free_tier_summary": "完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/aider/"
   },
   {
@@ -44,7 +44,7 @@
    "free_tier_summary": "10 credits",
    "cheapest_paid_usd_per_month": 39.8,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/airmusic/"
   },
   {
@@ -58,7 +58,7 @@
    "free_tier_summary": "有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案",
    "cheapest_paid_usd_per_month": 25,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/anijam/"
   },
   {
@@ -72,7 +72,7 @@
    "free_tier_summary": "免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/base44/"
   },
   {
@@ -86,7 +86,7 @@
    "free_tier_summary": "免費版 US$0",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/bolt/"
   },
   {
@@ -100,7 +100,7 @@
    "free_tier_summary": "沒有長期免費方案，只有免費試用",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/buzzabout/"
   },
   {
@@ -115,7 +115,7 @@
    "free_tier_summary": "免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件",
    "cheapest_paid_usd_per_month": 18,
    "commercial_use": null,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/canva-ai/"
   },
   {
@@ -129,7 +129,7 @@
    "free_tier_summary": "基本剪輯免費,AI 功能部分需 Pro",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
-   "last_verified": "2026-08-20",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/capcut-ai/"
   },
   {
@@ -143,7 +143,7 @@
    "free_tier_summary": "免費版每月 NT$0，人人可用",
    "cheapest_paid_usd_per_month": 8,
    "commercial_use": true,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/chatgpt/"
   },
   {
@@ -158,7 +158,7 @@
    "free_tier_summary": "額度採滾動式5小時使用窗計算，一般對話約可用10-20則,不含 Claude Code",
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/claude/"
   },
   {
@@ -172,7 +172,7 @@
    "free_tier_summary": "免費方案 US$0/人/月，可掛無限個公開與私有 repo，但 PR 上只提供「摘要」不做逐行審查",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/coderabbit/"
   },
   {
@@ -187,7 +187,7 @@
    "free_tier_summary": "免費 ChatGPT 帳號即可使用 Codex，但為 Limited存取；CLI 版本可用自己的 API key 使用，費用按 API 用量計",
    "cheapest_paid_usd_per_month": 8,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/codex/"
   },
   {
@@ -201,7 +201,7 @@
    "free_tier_summary": "完整Chromium瀏覽器與基本AI功能全面免費且無使用次數上限；但需消耗額度的代理任務在免費方案中額度有限",
    "cheapest_paid_usd_per_month": 5,
    "commercial_use": null,
-   "last_verified": "2026-08-11",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/comet/"
   },
   {
@@ -215,7 +215,7 @@
    "free_tier_summary": "工作郵箱用戶：500 API額度+ 10K Logo Link請求；免費郵箱用戶：250額度",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/context-dev/"
   },
   {
@@ -230,7 +230,7 @@
    "free_tier_summary": "無免費方案",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/copy-ai/"
   },
   {
@@ -245,7 +245,7 @@
    "free_tier_summary": "免費版 US$0/月，額度以 credits 計、每日 10 credits",
    "cheapest_paid_usd_per_month": 9,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/coze/"
   },
   {
@@ -260,7 +260,7 @@
    "free_tier_summary": "官網未公布免費點數；按實際使用量計費",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/createos-sandbox/"
   },
   {
@@ -274,7 +274,7 @@
    "free_tier_summary": "Hobby:2000 次補全+50 次慢速進階請求",
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/cursor/"
   },
   {
@@ -289,7 +289,7 @@
    "free_tier_summary": "每月 50,000 字元、每月 1 個檔案翻譯",
    "cheapest_paid_usd_per_month": 10.49,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/deepl/"
   },
   {
@@ -303,7 +303,7 @@
    "free_tier_summary": "網頁版基本免費,尖峰限流",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/deepseek/"
   },
   {
@@ -317,7 +317,7 @@
    "free_tier_summary": "免費版每月 60 分鐘媒體時數",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/descript/"
   },
   {
@@ -331,7 +331,7 @@
    "free_tier_summary": "每月 1 萬點數",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
   },
   {
@@ -346,7 +346,7 @@
    "free_tier_summary": "免費版基本搜尋不限，另每日可用約5次Pro搜尋，另有每日3次檔案分析額度；付費Pro方案用罄15,000點/期後仍可享每日最多300次Pro搜尋",
    "cheapest_paid_usd_per_month": 13.33,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/felo/"
   },
   {
@@ -360,7 +360,7 @@
    "free_tier_summary": "免費方案 US$0/月",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/floot/"
   },
   {
@@ -374,7 +374,7 @@
    "free_tier_summary": "註冊送一次性點數",
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/gamma/"
   },
   {
@@ -388,7 +388,7 @@
    "free_tier_summary": "免費版每月 NT$0，只要有 Google 帳戶就能用",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": true,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/gemini/"
   },
   {
@@ -403,7 +403,7 @@
    "free_tier_summary": "免費版即很夠用且永久免費，無須訂閱或信用卡",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": true,
-   "last_verified": "2026-08-14",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/notebooklm/"
   },
   {
@@ -417,7 +417,7 @@
    "free_tier_summary": "一般用戶免費層每月2,000次補全+50次chat；開源維護者/教師可免費升級Pro；學生免費方案新申請已於2026-06-17起逐步重新開放；2026-07-27補充：自2026…",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/github-copilot/"
   },
   {
@@ -431,7 +431,7 @@
    "free_tier_summary": "免費版是「一次性」不是每月配額：註冊送 120 點的 launch welcome pack",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/glaze/"
   },
   {
@@ -446,7 +446,7 @@
    "free_tier_summary": "開發用途幾乎免費；Gemini 2.5系列：Search grounding免費1,500次/日，Maps grounding亦免費1,500次/日但超過後費率不同為US$25/1…",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/google-ai-studio/"
   },
   {
@@ -461,7 +461,7 @@
    "free_tier_summary": "拼字與文法檢查、語氣偵測，每月 100 次 AI 生成",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/grammarly/"
   },
   {
@@ -475,7 +475,7 @@
    "free_tier_summary": "官網未公布免費版的任何具體用量數字，本站不填推估值",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
-   "last_verified": "2026-08-11",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/grok/"
   },
   {
@@ -490,7 +490,7 @@
    "free_tier_summary": "免費層不需綁卡，各模型有各自的每分鐘／每日上限：Llama 3.1 8B Instant＝每分鐘 30 次請求、每日 14,400 次，每分鐘 6,000 token、每日 50 …",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/groq/"
   },
   {
@@ -504,7 +504,7 @@
    "free_tier_summary": "免費方案 US$0/月，額度按「支數」不是點數：每月 3 支影片，每支長度上限 1 分鐘",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/heygen/"
   },
   {
@@ -518,7 +518,7 @@
    "free_tier_summary": "官網ideogram.ai/pricing經代理直讀確認為「10 slow credits/week」，即每週10點慢速額度，約可得40張圖/週",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/ideogram/"
   },
   {
@@ -532,7 +532,7 @@
    "free_tier_summary": "7 天免費試用",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/jasper-ai/"
   },
   {
@@ -546,7 +546,7 @@
    "free_tier_summary": "每日登入送點數,可生少量",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-08-11",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/kling/"
   },
   {
@@ -560,7 +560,7 @@
    "free_tier_summary": "每日 150 點快速代幣，24小時到期不累積、不可跨日滾存，同時僅可執行1個生成任務",
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": true,
-   "last_verified": "2026-08-11",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/leonardo/"
   },
   {
@@ -575,7 +575,7 @@
    "free_tier_summary": "免費版每月 US$0，最多3個notebook，單人使用，4GB RAM，0.5 vCPU，US$5 AI額度上限",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/livedocs/"
   },
   {
@@ -589,7 +589,7 @@
    "free_tier_summary": "免費版每日發放 5 點「build credits」，每月上限 30 點；另每月給 20 點 Cloud credits 與 4 點可用於 app 內建 AI 功能的 credit…",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-14",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/lovable/"
   },
   {
@@ -603,7 +603,7 @@
    "free_tier_summary": "官方定價頁未列出免費方案",
    "cheapest_paid_usd_per_month": 30,
    "commercial_use": true,
-   "last_verified": "2026-08-15",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/luma/"
   },
   {
@@ -617,7 +617,7 @@
    "free_tier_summary": "⚠️2026-08-22兩輪查核：官網/pricing頁面已無獨立Free方案卡片，僅頁首見\"Sign Up - It's Free\"小字樣，無法確認舊記錄的「每日10次影像/3次…",
    "cheapest_paid_usd_per_month": 615,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/magic-hour/"
   },
   {
@@ -631,7 +631,7 @@
    "free_tier_summary": "每日 300 積分，支援 Chat 模式與 Agent 模式，1 個同時任務；新用戶另有 1,000 點一次性起始積分",
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": null,
-   "last_verified": "2026-08-14",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/manus/"
   },
   {
@@ -645,7 +645,7 @@
    "free_tier_summary": "網頁版基本文字對話免費；Office內建 Copilot Chat、Researcher/Analyst 代理與影像生成等進階功能需 Microsoft 365 Premium或 …",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/copilot-microsoft/"
   },
   {
@@ -659,7 +659,7 @@
    "free_tier_summary": "無免費方案",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/midjourney/"
   },
   {
@@ -674,7 +674,7 @@
    "free_tier_summary": "Mistral Vibe 免費版：每日訊息額度受限，含網頁搜尋與程式碼功能",
    "cheapest_paid_usd_per_month": 0.15,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/mistral/"
   },
   {
@@ -688,7 +688,7 @@
    "free_tier_summary": "完全免費",
    "cheapest_paid_usd_per_month": null,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/moltbook/"
   },
   {
@@ -702,7 +702,7 @@
    "free_tier_summary": "免費版 US$0：每日 40 次普通模型、圖像與影片生成為有限試用、ChatPDF 有限試用、AI Agent 限時體驗、最多 3 台登錄裝置",
    "cheapest_paid_usd_per_month": 8.3,
    "commercial_use": true,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/monica/"
   },
   {
@@ -716,7 +716,7 @@
    "free_tier_summary": "10 個專案、10 分鐘生成額度、無下載權限",
    "cheapest_paid_usd_per_month": 29,
    "commercial_use": false,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/murf-ai/"
   },
   {
@@ -730,7 +730,7 @@
    "free_tier_summary": "Gemini 免費版內含少量 Nano Banana 生成額度；付費方案依級別提升額度上限",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/nano-banana/"
   },
   {
@@ -745,7 +745,7 @@
    "free_tier_summary": "免費版可用有限AI功能，完整AI功能已併入付費方案；免費版另含最多10位外部訪客、7天頁面歷史記錄",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/notion-ai/"
   },
   {
@@ -760,7 +760,7 @@
    "free_tier_summary": "25 個以上的免費模型、4 個免費供應商，每日上限 50 次請求，社群支援",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/openrouter/"
   },
   {
@@ -775,7 +775,7 @@
    "free_tier_summary": "自託管版完全免費；託管版試用額度US$0.50",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/openseo/"
   },
   {
@@ -789,7 +789,7 @@
    "free_tier_summary": "免費版每月 60 點，官網比較表把 1 點對應 1 分鐘的來源影片處理量",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/opus-clip/"
   },
   {
@@ -804,7 +804,7 @@
    "free_tier_summary": "每月 300 分鐘轉錄額度，單場會議最長 30 分鐘，音訊/影片檔匯入終身只有 3 次",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/otter-ai/"
   },
   {
@@ -818,7 +818,7 @@
    "free_tier_summary": "⚠️2026-08-22兩輪真瀏覽器查核：全站找不到任何free/trial字樣，此前記錄的一次性5,000點免費方案已消失，判定免費方案已下架",
    "cheapest_paid_usd_per_month": 25,
    "commercial_use": true,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/pazi/"
   },
   {
@@ -833,7 +833,7 @@
    "free_tier_summary": "每日基本搜尋不限,Pro 搜尋每日少量",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/perplexity/"
   },
   {
@@ -847,7 +847,7 @@
    "free_tier_summary": "免費方案叫 Basic、US$0，每月 80 個影片點數",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/pika/"
   },
   {
@@ -861,7 +861,7 @@
    "free_tier_summary": "⚠️ 二手資訊揭露：以下免費額度數字非取自官方定價頁",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-08-09",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/pixverse/"
   },
   {
@@ -875,7 +875,7 @@
    "free_tier_summary": "⚠️2026-07-26更新：每日免費點數已由3,000點降至約300點，約於2026年3月底生效，兩篇獨立第二手來源交叉確認一致，但官網pricing頁本身仍無法直接查核，故此數…",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": true,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/poe/"
   },
   {
@@ -889,7 +889,7 @@
    "free_tier_summary": "沒有免費方案",
    "cheapest_paid_usd_per_month": 19,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/postsyncer/"
   },
   {
@@ -903,7 +903,7 @@
    "free_tier_summary": "免費版 US$0：每種風格每天 3 次生成、每天 3 張圖片上傳、單次最多 2 張圖；僅限個人用途、不可商用；生成圖全部公開；僅能用 Recraft 自家模型、無平行生成",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-08-15",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/recraft/"
   },
   {
@@ -919,7 +919,7 @@
    "free_tier_summary": "官網定價頁未提供免費層或試用額度",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/replicate/"
   },
   {
@@ -933,7 +933,7 @@
    "free_tier_summary": "免費方案叫 Starter",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/replit/"
   },
   {
@@ -947,7 +947,7 @@
    "free_tier_summary": "免費版名稱就叫 Free、US$0/月，官網標示 Free forever",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/runway/"
   },
   {
@@ -961,7 +961,7 @@
    "free_tier_summary": "免費版是 Free forever、不需信用卡，核心額度＝每月 10,000 字元的 AI 內容生成",
    "cheapest_paid_usd_per_month": 9,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/rytr/"
   },
   {
@@ -976,7 +976,7 @@
    "free_tier_summary": "免費版 US$0「Free forever」",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/sim/"
   },
   {
@@ -990,7 +990,7 @@
    "free_tier_summary": "開源模型權重免費自架；官網另提供 Brand Studio 服務 1,000 點免費試用額度",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/stable-diffusion/"
   },
   {
@@ -1005,7 +1005,7 @@
    "free_tier_summary": "雲端平台沒有免費方案",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/strix/"
   },
   {
@@ -1019,7 +1019,7 @@
    "free_tier_summary": "免費方案官網頁面上叫 Free Plan，US$0/月",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-08-16",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/suno/"
   },
   {
@@ -1033,7 +1033,7 @@
    "free_tier_summary": "每月 10 分鐘影片、9 種 AI 虛擬人像、1,200 credits/月、25 個 AI 生成影片素材、1 位編輯者，成品有浮水印；個人化虛擬人像免費版不提供",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-14",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/synthesia/"
   },
   {
@@ -1047,7 +1047,7 @@
    "free_tier_summary": "免費版 US$0 per seat/month「For individuals」",
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/teable/"
   },
   {
@@ -1062,7 +1062,7 @@
    "free_tier_summary": "無免費方案",
    "cheapest_paid_usd_per_month": 7.99,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/termi-protocol/"
   },
   {
@@ -1076,7 +1076,7 @@
    "free_tier_summary": "免費版：每月 5,000 次自動補全、有限基本用量、標準佇列、TraeWork 2 個併發雲任務；下載即用",
    "cheapest_paid_usd_per_month": 3,
    "commercial_use": true,
-   "last_verified": "2026-08-15",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/trae/"
   },
   {
@@ -1090,7 +1090,7 @@
    "free_tier_summary": "免費版每日 10 點＋每月 100 點，約可生 1-3 首 2 分鐘內歌曲/天",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
-   "last_verified": "2026-08-24",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/udio/"
   },
   {
@@ -1104,7 +1104,7 @@
    "free_tier_summary": "免費方案 US$0/月，額度是「點數＋每日訊息數」雙重上限，任一撞到就停：①每月內含 US$5 的點數餘額；②每日 7 則訊息上限",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/v0/"
   },
   {
@@ -1119,7 +1119,7 @@
    "free_tier_summary": "Build方案官網現直接列出「60+ minutes included」免費通話分鐘數，取代先前的美元抵用金描述",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/vapi/"
   },
   {
@@ -1133,7 +1133,7 @@
    "free_tier_summary": "免費版 US$0",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/veed/"
   },
   {
@@ -1147,7 +1147,7 @@
    "free_tier_summary": "免費版每月 15 個「Velo 分鐘」，含 1 個席次、1 組聲音克隆、每月 1 支虛擬人影片",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/velo/"
   },
   {
@@ -1161,7 +1161,7 @@
    "free_tier_summary": "Google Flow 每日 50 點點數，Google AI Studio 免費額度限制",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": false,
-   "last_verified": "2026-08-11",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/veo/"
   },
   {
@@ -1175,7 +1175,7 @@
    "free_tier_summary": "完全開源免費,GitHub自架無成本;內建18個免費數據源;進階資料與風險計算須付費購買QVeris額度,可解鎖63+資料源",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/vibe-trading/"
   },
   {
@@ -1189,7 +1189,7 @@
    "free_tier_summary": "2026-08-11 複查發現：windsurf.com/pricing 現已永久重導向至 devin.ai/pricing，頁面完全是 Devin 品牌，Windsurf 獨立定…",
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/windsurf/"
   },
   {
@@ -1203,7 +1203,7 @@
    "free_tier_summary": "7 天退款保證",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-08-22",
+   "last_verified": "2026-08-27",
    "tool_page": "https://ampm-aiops.com/tools/writesonic/"
   }
  ]
