@@ -2,9 +2,9 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Verified Daily](https://img.shields.io/badge/Data-Verified_Daily-brightgreen.svg)](https://ampm-aiops.com)
-[![Tools Monitored](https://img.shields.io/badge/Tools-84+-blue.svg)](https://ampm-aiops.com/free/)
+[![Tools Monitored](https://img.shields.io/badge/Tools-100+-blue.svg)](https://ampm-aiops.com/free/)
 
-A comprehensive, open-source dataset tracking **real-world pricing models, free allowances, commercial licensing rules, and hidden limitations** for 84+ mainstream AI tools — checked daily, no guessed numbers.
+A comprehensive, open-source dataset tracking **real-world pricing models, free allowances, commercial licensing rules, and hidden limitations** for 100+ mainstream AI tools — checked daily, no guessed numbers.
 
 > 🔍 **Official Live Source**: Maintained and verified daily by [問問貓 (AMPM-AIOPS)](https://ampm-aiops.com).
 > 🌐 **Interactive Web Version**: [https://ampm-aiops.com/free/](https://ampm-aiops.com/free/)
@@ -27,7 +27,7 @@ A comprehensive, open-source dataset tracking **real-world pricing models, free 
 | **CapCut AI** | video | 基本剪輯免費,AI 功能部分需 Pro | — Not verified yet | [Details](https://ampm-aiops.com/tools/capcut-ai/) | 2026-08-27 |
 | **ChatGPT** | chatbot | 免費版每月 NT$0，人人可用 | ✅ Commercial OK | [Details](https://ampm-aiops.com/tools/chatgpt/) | 2026-08-27 |
 
-*(For the complete dataset, see [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) or [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv), or browse all 84+ tools at [ampm-aiops.com](https://ampm-aiops.com).)*
+*(For the complete dataset, see [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) or [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv), or browse all 100+ tools at [ampm-aiops.com](https://ampm-aiops.com).)*
 
 ---
 
