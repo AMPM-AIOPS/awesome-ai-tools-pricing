@@ -22,7 +22,7 @@ A comprehensive, open-source dataset tracking **real-world pricing models, free 
 | **Anijam** | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | ❌ Non-commercial | [Details](https://ampm-aiops.com/tools/anijam/) | 2026-08-27 |
 | **Base44** | coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | ✅ Commercial OK | [Details](https://ampm-aiops.com/tools/base44/) | 2026-08-27 |
 | **Bolt** | coding | 免費版 US$0 | ❌ Non-commercial | [Details](https://ampm-aiops.com/tools/bolt/) | 2026-08-27 |
-| **buzzabout** | research | 沒有長期免費方案，只有免費試用 | ❌ Non-commercial | [Details](https://ampm-aiops.com/tools/buzzabout/) | 2026-08-27 |
+| **buzzabout** | research | 沒有長期免費方案，只有免費試用 | ❌ Non-commercial | [Details](https://ampm-aiops.com/tools/buzzabout/) | 2026-08-28 |
 | **Canva AI** | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | — Not verified yet | [Details](https://ampm-aiops.com/tools/canva-ai/) | 2026-08-27 |
 | **CapCut AI** | video | 基本剪輯免費,AI 功能部分需 Pro | — Not verified yet | [Details](https://ampm-aiops.com/tools/capcut-ai/) | 2026-08-27 |
 | **ChatGPT** | chatbot | 免費版每月 NT$0，人人可用 | ✅ Commercial OK | [Details](https://ampm-aiops.com/tools/chatgpt/) | 2026-08-27 |
