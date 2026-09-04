@@ -1,0 +1,191 @@
+{
+ "dataset": "broker",
+ "title": "US Stock Brokers for Taiwan residents",
+ "generated_at": "2026-09-04T14:04:11+08:00",
+ "source": "https://broker.ampm-aiops.com",
+ "methodology": "https://ampm-aiops.com/methodology/",
+ "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
+ "row_count": 16,
+ "excluded_below_threshold": 0,
+ "threshold": "rows must have last_verified and an official source URL",
+ "last_verified_max": "2026-09-04",
+ "rows": [
+  {
+   "slug": "charles-schwab",
+   "name": "Charles Schwab 嘉信理財（國際帳戶）",
+   "tw_eligible": "可。Schwab One International，開戶接受台灣身分證",
+   "trade_fee": "美股/上市 ETF 線上 US$0",
+   "min_deposit": "個人/聯名國際帳戶無最低開戶入金（US$25,000 門檻為嘉信香港實體規定，非台灣適用）",
+   "idle_fee": "無帳戶管理費/閒置費",
+   "source_url": "https://international.schwab.com/pricing",
+   "last_verified": "2026-09-03",
+   "page_url": "https://broker.ampm-aiops.com/items/charles-schwab/"
+  },
+  {
+   "slug": "firstrade",
+   "name": "Firstrade 第一證券",
+   "tw_eligible": "可。台灣居民全線上開國際帳戶，中文開戶流程",
+   "trade_fee": "股票/ETF/期權 US$0 佣金",
+   "min_deposit": "無最低存款",
+   "idle_fee": "無閒置費",
+   "source_url": "https://www.firstrade.com/content/zh-tw/pricing",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/firstrade/"
+  },
+  {
+   "slug": "interactive-brokers",
+   "name": "Interactive Brokers 盈透證券（IBKR）",
+   "tw_eligible": "可。台灣居民線上開戶（一般隸屬 IBKR 美國 LLC）",
+   "trade_fee": "IBKR Pro 固定式 US$0.005/股、每筆最低 US$1；IBKR Lite 零佣金台灣居民不適用",
+   "min_deposit": "無最低入金",
+   "idle_fee": "無（2021 已取消月低消）",
+   "source_url": "https://www.interactivebrokers.com/cn/pricing/commissions-stocks.php",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/interactive-brokers/"
+  },
+  {
+   "slug": "td-ameritrade-schwab",
+   "name": "TD Ameritrade（已併入嘉信）",
+   "tw_eligible": "不再受理。2024/5/10 起全帳戶移轉 Schwab，TD 品牌停止散戶服務",
+   "trade_fee": "N/A（依 Schwab）",
+   "min_deposit": "N/A",
+   "idle_fee": "N/A",
+   "source_url": "https://international.schwab.com/",
+   "last_verified": "2026-09-03",
+   "page_url": "https://broker.ampm-aiops.com/items/td-ameritrade-schwab/"
+  },
+  {
+   "slug": "tiger-brokers",
+   "name": "Tiger Brokers 老虎證券（新加坡）",
+   "tw_eligible": "可。外國人身分開老虎新加坡（MAS 監管）帳戶，App 全線上",
+   "trade_fee": "佣金 US$0.005/股（最低 US$0.99）＋平台費 US$0.005/股（最低 US$1）＝每筆最低約 US$1.99",
+   "min_deposit": "無實質門檻（SG 行銷頁標最低入金 S$1 起）",
+   "idle_fee": "官方聲明不收閒置費（集團FAQ，SG站牌告頁未列此項，一致）",
+   "source_url": "https://www.itiger.com/sg/commissions",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/tiger-brokers/"
+  },
+  {
+   "slug": "webull",
+   "name": "Webull 微牛證券",
+   "tw_eligible": "不可。美國版要求美國居住地址＋SSN＋公民/綠卡/美簽；各海外實體亦要求當地居民，無台灣管道",
+   "trade_fee": "N/A",
+   "min_deposit": "N/A",
+   "idle_fee": "N/A",
+   "source_url": "https://www.webull.com/help/faq/343-I-am-a-US-resident-What-requirements-do-I-need-to-meet-in-order-to-open-a-brokerage-account-on-Webull",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/webull/"
+  },
+  {
+   "slug": "etoro",
+   "name": "eToro",
+   "tw_eligible": "可。台灣居民線上註冊",
+   "trade_fee": "現股開/平倉每次 US$1 或 US$2（多數美股 US$2）；CFD 有點差",
+   "min_deposit": "首次入金依國家（官方區間 US$10~10,000；台灣多方來源載 US$50",
+   "idle_fee": "官方費用頁標示 Inactivity fee: Free",
+   "source_url": "https://www.etoro.com/trading/fees/",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/etoro/"
+  },
+  {
+   "slug": "moomoo",
+   "name": "moomoo（富途新加坡）",
+   "tw_eligible": "可。海外居民（含台灣）以護照＋地址證明開 moomoo SG（MAS 監管）",
+   "trade_fee": "US$0.99/order平台費（佣金$0）",
+   "min_deposit": "無最低入金",
+   "idle_fee": "官方美股費用頁未列此項（SG股有季度託管費SGD2/季但已豁免，非美股項目）",
+   "source_url": "https://www.moomoo.com/sg/support/topic5_395",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/moomoo/"
+  },
+  {
+   "slug": "ctbc-sub-brokerage",
+   "name": "中國信託證券 複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商線上開戶",
+   "trade_fee": "美股定期定額買進 0.2% 無低消；一般複委託單筆最低 US$35",
+   "min_deposit": "",
+   "idle_fee": "",
+   "source_url": "https://www.ctbcsec.com/2020/n3-subbrokerage/pdf/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E7%B6%9C%E5%90%88%E8%AD%89%E5%88%B8%E5%8F%97%E8%A8%97%E8%B2%B7%E8%B3%A3%E5%A4%96%E5%9C%8B%E8%82%A1%E7%A5%A8%E6%94%B6%E8%B2%BB%E6%A8%99%E6%BA%96.pdf",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/ctbc-sub-brokerage/"
+  },
+  {
+   "slug": "yuanta-sub-brokerage",
+   "name": "元大證券 複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商線上開戶",
+   "trade_fee": "作業手冊揭露：手續費與通路報酬合計上限為成交金額 5%；市場流傳買進每筆 0.1%（最高 US$1 封頂）、賣出 0.1%",
+   "min_deposit": "",
+   "idle_fee": "",
+   "source_url": "https://www.yuanta.com.tw/eyuanta/webfile/resourcesFile/b1348f0b-7243-4ae8-9f9d-fd8e87167a0c.pdf",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/yuanta-sub-brokerage/"
+  },
+  {
+   "slug": "kgi-sub-brokerage",
+   "name": "凱基證券 複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商線上開戶",
+   "trade_fee": "複委託定期定額免低消門檻（依官網活動頁）；一般複委託費率依市場不同",
+   "min_deposit": "定期定額每月最低 NT$3,000 或 US$100",
+   "idle_fee": "",
+   "source_url": "https://event.kgi.com.tw/news/event/trade-US-now/index.html",
+   "last_verified": "2026-09-02",
+   "page_url": "https://broker.ampm-aiops.com/items/kgi-sub-brokerage/"
+  },
+  {
+   "slug": "pocket-sub-brokerage",
+   "name": "口袋證券（元富證券）複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商（元富證券）線上開戶",
+   "trade_fee": "美股新戶電子單 0.08% 無低消；定期定額（存股）0.08%、低消 US$0.1（限時優惠至 2026/12/31，逾期以官網牌告為準）",
+   "min_deposit": "",
+   "idle_fee": "",
+   "source_url": "https://www.pocket.tw/callcenter/questions/124/",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/pocket-sub-brokerage/"
+  },
+  {
+   "slug": "cathay-sub-brokerage",
+   "name": "國泰證券 複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商線上開戶",
+   "trade_fee": "美股電子單 0.08%（優惠至 2026/12/31）免低消；ETF 每筆 US$3；定期定額股票每筆 US$0.1；人工單最低 US$10",
+   "min_deposit": "無門檻；定期定額 US$10 可扣",
+   "idle_fee": "無",
+   "source_url": "https://www.cathaysec.com.tw/CathaysecUS/us_transaction_info.aspx",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/cathay-sub-brokerage/"
+  },
+  {
+   "slug": "fubon-sub-brokerage",
+   "name": "富邦證券 複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商線上開戶",
+   "trade_fee": "牌告美股買進 0.2%（官方新聞稿確認七大市場已全面取消最低手續費門檻）；賣出比照客戶原複委託費率；2026年另有定期定額優惠費率0.1%、單筆優惠費率media傳0.06%(優惠期限請以官網當下頁面為準)",
+   "min_deposit": "無門檻；已官方確認取消最低手續費(非僅media推測)",
+   "idle_fee": "無",
+   "source_url": "https://www.fbs.com.tw/",
+   "last_verified": "2026-09-03",
+   "page_url": "https://broker.ampm-aiops.com/items/fubon-sub-brokerage/"
+  },
+  {
+   "slug": "sinopac-sub-brokerage",
+   "name": "永豐金證券 複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商線上開戶",
+   "trade_fee": "美股網路下單0.08%，最低手續費US$0.01（官網sinotrade.com.tw/Ovs/Ovs_6_2）",
+   "min_deposit": "US$100或HK$1,000",
+   "idle_fee": "",
+   "source_url": "https://www.sinotrade.com.tw/ec/20241001/index.html",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/sinopac-sub-brokerage/"
+  },
+  {
+   "slug": "esun-sub-brokerage",
+   "name": "玉山證券 複委託（台灣對照組）",
+   "tw_eligible": "可。台灣本地券商線上開戶",
+   "trade_fee": "複委託費率約 0.4%，單筆最低費用來源不一（US$35 或 US$50",
+   "min_deposit": "",
+   "idle_fee": "",
+   "source_url": "https://www.esunsec.com.tw/faq/detail.aspx?id=Foreign",
+   "last_verified": "2026-09-04",
+   "page_url": "https://broker.ampm-aiops.com/items/esun-sub-brokerage/"
+  }
+ ]
+}

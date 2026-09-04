@@ -1,0 +1,115 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/cards/schema.json",
+ "title": "Taiwan Credit Cards",
+ "description": "Row schema for datasets/cards/cards_2026.json (field `rows`) and the CSV twin. License: CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "type": "object",
+ "required": [
+  "slug",
+  "name",
+  "source_url",
+  "last_verified"
+ ],
+ "properties": {
+  "slug": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Stable identifier (URL segment)."
+  },
+  "name": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Product / card / provider name."
+  },
+  "issuer": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Card issuer (bank)."
+  },
+  "annual_fee": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Annual fee wording as published by the issuer."
+  },
+  "cashback": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Headline cashback wording."
+  },
+  "revolving_rate": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Revolving credit interest rate range (legal disclosure)."
+  },
+  "cash_advance_fee": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Cash advance fee (legal disclosure)."
+  },
+  "source_url": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Official source page the figures were verified against (no tracking parameters)."
+  },
+  "last_verified": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Date (YYYY-MM-DD) the row was last verified against the official source."
+  },
+  "page_url": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Back-link to the detail page on the ampm-aiops.com sub-site (full evidence and warnings)."
+  }
+ }
+}

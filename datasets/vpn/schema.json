@@ -1,0 +1,135 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/vpn/schema.json",
+ "title": "VPN Pricing & Audits (Taiwan)",
+ "description": "Row schema for datasets/vpn/vpn_2026.json (field `rows`) and the CSV twin. License: CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "type": "object",
+ "required": [
+  "slug",
+  "name",
+  "source_url",
+  "last_verified"
+ ],
+ "properties": {
+  "slug": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Stable identifier (URL segment)."
+  },
+  "name": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Product / card / provider name."
+  },
+  "min_price_usd_per_month": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Lowest effective USD/month across all plans (long-term prepay)."
+  },
+  "monthly_plan_usd": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Cheapest month-to-month plan, USD."
+  },
+  "money_back_days": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Money-back guarantee, days."
+  },
+  "max_devices": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Simultaneous devices."
+  },
+  "taiwan_servers": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Has servers in Taiwan."
+  },
+  "jurisdiction": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Company jurisdiction."
+  },
+  "latest_audit_year": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Year of latest independent no-log audit."
+  },
+  "source_url": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Official source page the figures were verified against (no tracking parameters)."
+  },
+  "last_verified": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Date (YYYY-MM-DD) the row was last verified against the official source."
+  },
+  "page_url": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Back-link to the detail page on the ampm-aiops.com sub-site (full evidence and warnings)."
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/esim/schema.json",
+ "title": "Travel eSIM Plans (Taiwan market)",
+ "description": "Row schema for datasets/esim/esim_2026.json (field `rows`) and the CSV twin. License: CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "type": "object",
+ "required": [
+  "slug",
+  "name",
+  "source_url",
+  "last_verified"
+ ],
+ "properties": {
+  "slug": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Stable identifier (URL segment)."
+  },
+  "name": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Product / card / provider name."
+  },
+  "region": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Coverage region."
+  },
+  "price_twd": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Price range in TWD."
+  },
+  "plan_type": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Plan type (fixed data / unlimited)."
+  },
+  "hotspot": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Hotspot / tethering support."
+  },
+  "source_url": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Official source page the figures were verified against (no tracking parameters)."
+  },
+  "last_verified": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Date (YYYY-MM-DD) the row was last verified against the official source."
+  },
+  "page_url": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": "Back-link to the detail page on the ampm-aiops.com sub-site (full evidence and warnings)."
+  }
+ }
+}
